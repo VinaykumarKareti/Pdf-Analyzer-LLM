@@ -3,12 +3,14 @@
 **Name**: K.V. Vinay Kumar
 
 This work is assigned as an assignment by ALEMENO.
-User Interface look like:
-![image](https://github.com/VinaykumarKareti/Pdf-Analyzer-LLM/assets/105053576/d51f20a9-e8e0-490d-9da5-f497cb8078a9)
 
 =============================================================================================================================================================
 
 This Streamlit application allows users to interact with PDF documents through a conversational AI interface. Users can upload PDF files, which are processed to extract and chunk text data. This data is then indexed in a vector store to enable efficient similarity searches. When users ask questions about the uploaded PDFs, the application uses Google Generative AI models to generate detailed answers based on the context extracted from the documents.
+
+
+User Interface look like:
+![image](https://github.com/VinaykumarKareti/Pdf-Analyzer-LLM/assets/105053576/d51f20a9-e8e0-490d-9da5-f497cb8078a9)
 
 ### File Structure
 
