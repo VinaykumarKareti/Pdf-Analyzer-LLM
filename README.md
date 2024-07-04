@@ -4,7 +4,7 @@
 
 This work is assigned as an assignment by ALEMENO.
 
-=============================================================================================================================================================
+--------------------------------------------------------------
 
 This Streamlit application allows users to interact with PDF documents through a conversational AI interface. Users can upload PDF files, which are processed to extract and chunk text data. This data is then indexed in a vector store to enable efficient similarity searches. When users ask questions about the uploaded PDFs, the application uses Google Generative AI models to generate detailed answers based on the context extracted from the documents.
 
